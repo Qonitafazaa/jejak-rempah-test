@@ -6,7 +6,7 @@ on:
 
 env:
   PROJECT_ID: capstoneproject-jejakrempah # TODO: update Google Cloud project id
-  GAR_LOCATION: asia-southeast1 # TODO: update Artifact Registry location
+  GAR_LOCATION: us-central1  # TODO: update Artifact Registry location
   GAR_REPOSITORY_NAME: image-registry # TODO: update Artifact Registry Repository name
   SERVICE: cloud-run-github-actions # TODO: update Cloud Run service name
   REGION: asia-southeast1 # TODO: update Cloud Run service region
